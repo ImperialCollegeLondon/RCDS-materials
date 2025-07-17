@@ -5,9 +5,9 @@ The Research Computing and Data Science Programme in
 uses the following teaching materials.  
 
 You are welcome to study and reuse under the specified terms.
-|Course (author)|Link|
-|---------------|----|
+
 | **Introduction to version system using GitHub Desktop** (Adam Townsend) | <https://github.com/Pecnut/course-intro-to-git> (includes videos) |
+|----|----|
 | **Introduction to Python** (Chris Cooling) | <https://github.com/coolernato/Introduction-to-Python> |
 | **Introduction to MATLAB** (Adam Townsend) | [https://github.com/Pecnut/course-intro-to-matlab/](https://github.com/Pecnut/course-intro-to-matlab/blob/master/README.md) (includes videos) |
 | **Introduction to LaTeX** (Chris Cooling) | <https://github.com/coolernato/Introduction-to-LaTeX> |
@@ -41,5 +41,5 @@ You are welcome to study and reuse under the specified terms.
 | **Profiling and optimisation in Python**(Chris Cooling) | <https://github.com/coolernato/Profiling-and-Optimisation-in-Python> |
 | **Numerical computing in Python with numpy and scipy** (Chris Cooling) | <https://github.com/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy> |
 | **Reproducible and scalable research computing with containers** (Jianliang Liam Gao) | <https://github.com/jianlianggao/course-intro-to-containers> |
-| **Introduction to Creating a Website with GitHub and Markdown** | <https://github.com/ImperialCollegeLondon/RCDS-Intro-to-Creating-a-Website> |
-| **Further Website Development for Software Projects** | <https://github.com/ImperialCollegeLondon/RCDS-Further-Website-Development> |
+| **Introduction to Creating a Website with GitHub and Markdown ** | <https://github.com/ImperialCollegeLondon/RCDS-Intro-to-Creating-a-Website> |
+| **Further Website Development for Software Projects ** | <https://github.com/ImperialCollegeLondon/RCDS-Further-Website-Development> |
