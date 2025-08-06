@@ -4,7 +4,11 @@ The Research Computing and Data Science Programme in
 [ECRI](https://www.imperial.ac.uk/about/leadership-and-strategy/provost/vice-provost-research/vpre-led-initiatives/early-career-researcher-institute/)
 uses the following teaching materials.  
 
-You are welcome to study and reuse under the specified terms.
+Other resources:
+- [**Software Carpentry**](./software_carpentry.md)
+- [**Choice resources from Imperial etc.**](./choice_online_resources.md)
+  
+
 
 | Course (author)| link | 
 |----|----|
@@ -44,3 +48,6 @@ You are welcome to study and reuse under the specified terms.
 | **Reproducible and scalable research computing with containers** (Jianliang Liam Gao) | <https://github.com/jianlianggao/course-intro-to-containers> |
 | **Introduction to Creating a Website with GitHub and Markdown** (Jay DesLauriers) | <https://github.com/ImperialCollegeLondon/RCDS-Intro-to-Creating-a-Website> |
 | **Further Website Development for Software Projects** (Jay DesLauriers) | <https://github.com/ImperialCollegeLondon/RCDS-Further-Website-Development> |
+
+
+You are welcome to study and reuse under the specified terms.
