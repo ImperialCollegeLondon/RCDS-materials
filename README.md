@@ -1,6 +1,6 @@
 # Research Computing and Data Science materials 
 
-The Research Computing and Data Science Programme in
+The [Research Computing and Data Science Group of Programmes](https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/courses-by-programme/research-computing-and-data-science/) in
 [ECRI](https://www.imperial.ac.uk/about/leadership-and-strategy/provost/vice-provost-research/vpre-led-initiatives/early-career-researcher-institute/)
 uses the following teaching materials.  
 
@@ -8,6 +8,7 @@ Other resources:
 - [**Software Carpentry**](./software_carpentry.md)
 - [**Choice resources from Imperial etc.**](./choice_online_resources.md)
   
+
 
 
 | Course (author)| link | 
