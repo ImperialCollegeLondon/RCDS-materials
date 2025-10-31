@@ -192,4 +192,8 @@ href="https://pyproblems.github.io/book/intro.html">https://pyproblems.github.io
 Cetinkaya-Rundel and Garrett Grolemund</td>
 <td><a href="https://r4ds.hadley.nz/">https://r4ds.hadley.nz/</a></td>
 </tr>
+<tr>
+<td><strong>The Turing way</strong>Handbook to reproducible, ethical and collaborative data science by Turing way community.</td>
+<td><a href="https://book.the-turing-way.org/">https://book.the-turing-way.org</a></td>
+</tr>
 </table>
