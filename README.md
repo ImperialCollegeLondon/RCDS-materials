@@ -5,7 +5,7 @@ The [Research Computing and Data Science Group of Programmes](https://www.imperi
 uses the following teaching materials.  
 
 Other resources:
-- [**Software Carpentry**](./software_carpentry.md)
+- [**Software Carpentry from Imperial including videos**](./software_carpentry.md)
 - [**Choice resources from Imperial etc.**](./choice_online_resources.md)
   
 
