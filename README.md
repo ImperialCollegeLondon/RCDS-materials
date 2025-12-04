@@ -8,6 +8,7 @@ Other resources:
 - [**Software Carpentry from Imperial including videos**](./software_carpentry.md)
 - [**Choice resources from Imperial etc.**](./choice_online_resources.md)
 - [**SSI training hub - extensive list of training resources**](https://www.software.ac.uk/training/training-hub)
+- [**Software Carpentry community lessons repository**](https://carpentries.org/lesson-development/community-lessons/)
   
 
 
