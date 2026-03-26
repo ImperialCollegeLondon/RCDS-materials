@@ -15,9 +15,7 @@ Other resources:
 
 | Course (author)| link | 
 |----|----|
-| **Introduction to version system using GitHub Desktop** (Adam Townsend) | <https://github.com/Pecnut/course-intro-to-git> (includes videos) |
-| **Introduction to Python** (Chris Cooling) | <https://github.com/coolernato/Introduction-to-Python> |
-| **Introduction to MATLAB** (Adam Townsend) | [https://github.com/Pecnut/course-intro-to-matlab/](https://github.com/Pecnut/course-intro-to-matlab/blob/master/README.md) (includes videos) |
+| **Python for researchers on Coursera** (Chris Cooling) | <https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/courses-by-programme/research-computing-and-data-science/python-for-researchers/> |
 | **Introduction to LaTeX** (Chris Cooling) | <https://github.com/coolernato/Introduction-to-LaTeX> |
 | **Introduction to C++** (Adam Townsend and Natalia Wojcicka) | <https://github.com/Pecnut/course-intro-to-cpp/> (includes videos) |
 | **Introduction to Fortran** (Chris Cooling) | <https://github.com/coolernato/Intro-to-Fortran> |
@@ -30,7 +28,6 @@ Other resources:
 | **Essential software engineering for researchers** ([Imperial RSEs](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering/)) | <https://imperialcollegelondon.github.io/grad_school_software_engineering_course/> |
 | **Using Git to code, collaborate and share** ([Imperial RSEs](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering/)) | <https://imperialcollegelondon.github.io/grad_school_git_course/> |
 | **R programming** (John Pinney) | <https://github.com/johnpinney/r_programming> |
-| **Data processing with Python pandas** (Adam Townsend) | <https://github.com/Pecnut/course-pandas> (includes videos) |
 | **Data processing with Python pandas** (John Pinney) | <https://github.com/johnpinney/data_processing_with_python> |
 | **Data processing with R** (John Pinney) | <https://github.com/johnpinney/data_processing_with_r> |
 | **Data exploration and visualisation** (John Pinney) | <https://github.com/johnpinney/data_exploration> |
@@ -51,6 +48,9 @@ Other resources:
 | **Reproducible and scalable research computing with containers** (Jianliang Liam Gao) | <https://github.com/jianlianggao/course-intro-to-containers> |
 | **Introduction to Creating a Website with GitHub and Markdown** (Jay DesLauriers) | <https://github.com/ImperialCollegeLondon/RCDS-Intro-to-Creating-a-Website> |
 | **Further Website Development for Software Projects** (Jay DesLauriers) | <https://github.com/ImperialCollegeLondon/RCDS-Further-Website-Development> |
-
+| **Introduction to version system using GitHub Desktop** (Adam Townsend) | <https://github.com/Pecnut/course-intro-to-git> (includes videos) |
+| **Introduction to Python** (Chris Cooling) | <https://github.com/coolernato/Introduction-to-Python> |
+| **Introduction to MATLAB** (Adam Townsend) | [https://github.com/Pecnut/course-intro-to-matlab/](https://github.com/Pecnut/course-intro-to-matlab/blob/master/README.md) (includes videos) |
+| **Data processing with Python pandas** (Adam Townsend) | <https://github.com/Pecnut/course-pandas> (includes videos) |
 
 You are welcome to study and reuse under the specified terms.
