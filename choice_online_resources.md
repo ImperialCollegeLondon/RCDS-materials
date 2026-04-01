@@ -196,4 +196,8 @@ Cetinkaya-Rundel and Garrett Grolemund</td>
 <td><strong>The Turing way</strong> Handbook to reproducible, ethical and collaborative data science by Turing way community.</td>
 <td><a href="https://book.the-turing-way.org/">https://book.the-turing-way.org</a></td>
 </tr>
+ <tr>
+<td><strong>Selection of computing modules</strong> Collection by Oliver Killane</td>
+<td><a href="https://github.com/OliverKillane/Imperial-Computing-Notes">https://github.com/OliverKillane/Imperial-Computing-Notes</a></td>
+</tr> 
 </table>
