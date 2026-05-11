@@ -16,6 +16,8 @@ Other resources:
 | Course (author)| link | 
 |----|----|
 | **Python for researchers on Coursera** (Chris Cooling) | <https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/courses-by-programme/research-computing-and-data-science/python-for-researchers/> |
+| **Deep Learning with Python** | <https://github.com/ImperialCollegeLondon/RCDS-Deep-Learning-CNN> |
+https://github.com/ImperialCollegeLondon/RCDS-Deep-Learning-CNN
 | **Introduction to LaTeX** (Chris Cooling) | <https://github.com/coolernato/Introduction-to-LaTeX> |
 | **Introduction to C++** (Adam Townsend and Natalia Wojcicka) | <https://github.com/Pecnut/course-intro-to-cpp/> (includes videos) |
 | **Introduction to Fortran** (Chris Cooling) | <https://github.com/coolernato/Intro-to-Fortran> |
