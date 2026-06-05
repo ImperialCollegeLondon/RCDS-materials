@@ -15,6 +15,7 @@ Other resources:
 
 | Course (author)| link | 
 |----|----|
+| **Introduction to Nextflow for reproducible scientific workflows** (Jesús Urtasun) | <https://github.com/jurtasun/rcds_intro_nextflow/> |
 | **Python for researchers on Coursera** (Chris Cooling) | <https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/courses-by-programme/research-computing-and-data-science/python-for-researchers/> |
 | **Deep Learning with Python** | <https://github.com/ImperialCollegeLondon/RCDS-Deep-Learning-CNN> |
 | **Introduction to LaTeX** (Chris Cooling) | <https://github.com/coolernato/Introduction-to-LaTeX> |
